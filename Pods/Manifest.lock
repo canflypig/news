@@ -1,0 +1,55 @@
+PODS:
+  - Alamofire (4.8.2)
+  - BMPlayer (1.2.1):
+    - BMPlayer/Full (= 1.2.1)
+  - BMPlayer/Core (1.2.1)
+  - BMPlayer/Full (1.2.1):
+    - BMPlayer/Core
+    - NVActivityIndicatorView (~> 4.6.1)
+    - SnapKit (~> 4.2.0)
+  - KeychainSwift (16.0.1)
+  - Kingfisher (4.10.1)
+  - MJRefresh (3.2.0)
+  - NVActivityIndicatorView (4.6.1):
+    - NVActivityIndicatorView/Presenter (= 4.6.1)
+  - NVActivityIndicatorView/Presenter (4.6.1)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (5.0.0)
+  - WisdomHUD (0.0.5)
+
+DEPENDENCIES:
+  - Alamofire
+  - BMPlayer
+  - KeychainSwift
+  - Kingfisher
+  - MJRefresh
+  - SnapKit
+  - SwiftyJSON
+  - WisdomHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - BMPlayer
+    - KeychainSwift
+    - Kingfisher
+    - MJRefresh
+    - NVActivityIndicatorView
+    - SnapKit
+    - SwiftyJSON
+    - WisdomHUD
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BMPlayer: ea12f9d82e37f968dea2078b5e58e356ee4439d8
+  KeychainSwift: 4209611373ca4a098e09b1e547eebd87c544dcc4
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  NVActivityIndicatorView: 4ca19fccc84595a78957336a086d00a49be6ce61
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  WisdomHUD: c453e920a7db4ed5d15a7bb6960ecbb2b37eb81e
+
+PODFILE CHECKSUM: bb11b53bf13bd925bee9e02e9cc401241914de15
+
+COCOAPODS: 1.7.4
